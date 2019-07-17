@@ -1,0 +1,30 @@
+[submodule "cyhy_amis"]
+	path = cyhy_amis
+	url = git@github.com:cisagov/cyhy_amis.git
+[submodule "ansible-roles/ansible-role-python"]
+	path = ansible-roles/ansible-role-python
+	url = git@github.com:cisagov/ansible-role-python.git
+[submodule "ansible-roles/ansible-role-server-setup"]
+	path = ansible-roles/ansible-role-server-setup
+	url = git@github.com:cisagov/ansible-role-server-setup.git
+[submodule "ansible-roles/ansible-role-openvpn"]
+	path = ansible-roles/ansible-role-openvpn
+	url = git@github.com:cisagov/ansible-role-openvpn.git
+[submodule "ansible-roles/ansible-role-xfs"]
+	path = ansible-roles/ansible-role-xfs
+	url = git@github.com:cisagov/ansible-role-xfs.git
+[submodule "ansible-roles/ansible-role-kali"]
+	path = ansible-roles/ansible-role-kali
+	url = git@github.com:cisagov/ansible-role-kali.git
+[submodule "ansible-roles/ansible-role-ncats-webd"]
+	path = ansible-roles/ansible-role-ncats-webd
+	url = git@github.com:cisagov/ansible-role-ncats-webd.git
+[submodule "ansible-roles/ansible-role-cyhy-archive"]
+	path = ansible-roles/ansible-role-cyhy-archive
+	url = git@github.com:cisagov/ansible-role-cyhy-archive.git
+[submodule "skeletons/skeleton-generic"]
+	path = skeletons/skeleton-generic
+	url = git@github.com:cisagov/skeleton-generic.git
+[submodule "skeletons/skeleton-ansible-role"]
+	path = skeletons/skeleton-ansible-role
+	url = git@github.com:cisagov/skeleton-ansible-role.git
