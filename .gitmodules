@@ -28,3 +28,159 @@
 [submodule "skeletons/skeleton-ansible-role"]
 	path = skeletons/skeleton-ansible-role
 	url = git@github.com:cisagov/skeleton-ansible-role.git
+[submodule "ansible-role-nmap"]
+	path = ansible-role-nmap
+	url = git@github.com:cisagov/ansible-role-nmap.git
+[submodule "ansible-role-disable-numa"]
+	path = ansible-role-disable-numa
+	url = git@github.com:cisagov/ansible-role-disable-numa.git
+[submodule "ansible-role-mongo"]
+	path = ansible-role-mongo
+	url = git@github.com:cisagov/ansible-role-mongo.git
+[submodule "ansible-role-oracle-java"]
+	path = ansible-role-oracle-java
+	url = git@github.com:cisagov/ansible-role-oracle-java.git
+[submodule "ansible-role-logrotate"]
+	path = ansible-role-logrotate
+	url = git@github.com:cisagov/ansible-role-logrotate.git
+[submodule "ansible-role-cyhy-core"]
+	path = ansible-role-cyhy-core
+	url = git@github.com:cisagov/ansible-role-cyhy-core.git
+[submodule "ansible-role-docker"]
+	path = ansible-role-docker
+	url = git@github.com:cisagov/ansible-role-docker.git
+[submodule "ansible-role-pip"]
+	path = ansible-role-pip
+	url = git@github.com:cisagov/ansible-role-pip.git
+[submodule "ansible-role-nessus"]
+	path = ansible-role-nessus
+	url = git@github.com:cisagov/ansible-role-nessus.git
+[submodule "ansible-role-cyhy-feeds"]
+	path = ansible-role-cyhy-feeds
+	url = git@github.com:cisagov/ansible-role-cyhy-feeds.git
+[submodule "ansible-role-htop"]
+	path = ansible-role-htop
+	url = git@github.com:cisagov/ansible-role-htop.git
+[submodule "ansible-role-freeipa-server"]
+	path = ansible-role-freeipa-server
+	url = git@github.com:cisagov/ansible-role-freeipa-server.git
+[submodule "ansible-role-upgrade"]
+	path = ansible-role-upgrade
+	url = git@github.com:cisagov/ansible-role-upgrade.git
+[submodule "ansible-role-cobalt-strike"]
+	path = ansible-role-cobalt-strike
+	url = git@github.com:cisagov/ansible-role-cobalt-strike.git
+[submodule "ansible-role-mongo-logrotate"]
+	path = ansible-role-mongo-logrotate
+	url = git@github.com:cisagov/ansible-role-mongo-logrotate.git
+[submodule "ansible-role-persist-journald"]
+	path = ansible-role-persist-journald
+	url = git@github.com:cisagov/ansible-role-persist-journald.git
+[submodule "ansible-role-cyhy-logrotate"]
+	path = ansible-role-cyhy-logrotate
+	url = git@github.com:cisagov/ansible-role-cyhy-logrotate.git
+[submodule "ansible-role-nvme"]
+	path = ansible-role-nvme
+	url = git@github.com:cisagov/ansible-role-nvme.git
+[submodule "ansible-role-guacamole"]
+	path = ansible-role-guacamole
+	url = git@github.com:cisagov/ansible-role-guacamole.git
+[submodule "ansible-role-orchestrator"]
+	path = ansible-role-orchestrator
+	url = git@github.com:cisagov/ansible-role-orchestrator.git
+[submodule "ansible-role-cyhy-mailer"]
+	path = ansible-role-cyhy-mailer
+	url = git@github.com:cisagov/ansible-role-cyhy-mailer.git
+[submodule "ansible-role-cyhy-reports"]
+	path = ansible-role-cyhy-reports
+	url = git@github.com:cisagov/ansible-role-cyhy-reports.git
+[submodule "skeleton-packer"]
+	path = skeleton-packer
+	url = git@github.com:cisagov/skeleton-packer.git
+[submodule "skeleton-docker"]
+	path = skeleton-docker
+	url = git@github.com:cisagov/skeleton-docker.git
+[submodule "skeleton-tf-module"]
+	path = skeleton-tf-module
+	url = git@github.com:cisagov/skeleton-tf-module.git
+[submodule "skeleton-python-library"]
+	path = skeleton-python-library
+	url = git@github.com:cisagov/skeleton-python-library.git
+[submodule "ansible-roles/ansible-role-nmap"]
+	path = ansible-roles/ansible-role-nmap
+	url = git@github.com:cisagov/ansible-role-nmap.git
+[submodule "ansible-roles/ansible-role-disable-numa"]
+	path = ansible-roles/ansible-role-disable-numa
+	url = git@github.com:cisagov/ansible-role-disable-numa.git
+[submodule "ansible-roles/ansible-role-mongo"]
+	path = ansible-roles/ansible-role-mongo
+	url = git@github.com:cisagov/ansible-role-mongo.git
+[submodule "ansible-roles/ansible-role-oracle-java"]
+	path = ansible-roles/ansible-role-oracle-java
+	url = git@github.com:cisagov/ansible-role-oracle-java.git
+[submodule "ansible-roles/ansible-role-logrotate"]
+	path = ansible-roles/ansible-role-logrotate
+	url = git@github.com:cisagov/ansible-role-logrotate.git
+[submodule "ansible-roles/ansible-role-cyhy-core"]
+	path = ansible-roles/ansible-role-cyhy-core
+	url = git@github.com:cisagov/ansible-role-cyhy-core.git
+[submodule "ansible-roles/ansible-role-docker"]
+	path = ansible-roles/ansible-role-docker
+	url = git@github.com:cisagov/ansible-role-docker.git
+[submodule "ansible-roles/ansible-role-pip"]
+	path = ansible-roles/ansible-role-pip
+	url = git@github.com:cisagov/ansible-role-pip.git
+[submodule "ansible-roles/ansible-role-nessus"]
+	path = ansible-roles/ansible-role-nessus
+	url = git@github.com:cisagov/ansible-role-nessus.git
+[submodule "ansible-roles/ansible-role-cyhy-feeds"]
+	path = ansible-roles/ansible-role-cyhy-feeds
+	url = git@github.com:cisagov/ansible-role-cyhy-feeds.git
+[submodule "ansible-roles/ansible-role-htop"]
+	path = ansible-roles/ansible-role-htop
+	url = git@github.com:cisagov/ansible-role-htop.git
+[submodule "ansible-roles/ansible-role-freeipa-server"]
+	path = ansible-roles/ansible-role-freeipa-server
+	url = git@github.com:cisagov/ansible-role-freeipa-server.git
+[submodule "ansible-roles/ansible-role-upgrade"]
+	path = ansible-roles/ansible-role-upgrade
+	url = git@github.com:cisagov/ansible-role-upgrade.git
+[submodule "ansible-roles/ansible-role-cobalt-strike"]
+	path = ansible-roles/ansible-role-cobalt-strike
+	url = git@github.com:cisagov/ansible-role-cobalt-strike.git
+[submodule "ansible-roles/ansible-role-mongo-logrotate"]
+	path = ansible-roles/ansible-role-mongo-logrotate
+	url = git@github.com:cisagov/ansible-role-mongo-logrotate.git
+[submodule "ansible-roles/ansible-role-persist-journald"]
+	path = ansible-roles/ansible-role-persist-journald
+	url = git@github.com:cisagov/ansible-role-persist-journald.git
+[submodule "ansible-roles/ansible-role-cyhy-logrotate"]
+	path = ansible-roles/ansible-role-cyhy-logrotate
+	url = git@github.com:cisagov/ansible-role-cyhy-logrotate.git
+[submodule "ansible-roles/ansible-role-nvme"]
+	path = ansible-roles/ansible-role-nvme
+	url = git@github.com:cisagov/ansible-role-nvme.git
+[submodule "ansible-roles/ansible-role-guacamole"]
+	path = ansible-roles/ansible-role-guacamole
+	url = git@github.com:cisagov/ansible-role-guacamole.git
+[submodule "ansible-roles/ansible-role-orchestrator"]
+	path = ansible-roles/ansible-role-orchestrator
+	url = git@github.com:cisagov/ansible-role-orchestrator.git
+[submodule "ansible-roles/ansible-role-cyhy-mailer"]
+	path = ansible-roles/ansible-role-cyhy-mailer
+	url = git@github.com:cisagov/ansible-role-cyhy-mailer.git
+[submodule "ansible-roles/ansible-role-cyhy-reports"]
+	path = ansible-roles/ansible-role-cyhy-reports
+	url = git@github.com:cisagov/ansible-role-cyhy-reports.git
+[submodule "skeletons/skeleton-packer"]
+	path = skeletons/skeleton-packer
+	url = git@github.com:cisagov/skeleton-packer.git
+[submodule "skeletons/skeleton-docker"]
+	path = skeletons/skeleton-docker
+	url = git@github.com:cisagov/skeleton-docker.git
+[submodule "skeletons/skeleton-tf-module"]
+	path = skeletons/skeleton-tf-module
+	url = git@github.com:cisagov/skeleton-tf-module.git
+[submodule "skeletons/skeleton-python-library"]
+	path = skeletons/skeleton-python-library
+	url = git@github.com:cisagov/skeleton-python-library.git
