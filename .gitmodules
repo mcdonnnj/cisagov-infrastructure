@@ -184,3 +184,12 @@
 [submodule "skeletons/skeleton-python-library"]
 	path = skeletons/skeleton-python-library
 	url = git@github.com:cisagov/skeleton-python-library.git
+[submodule "ansible-roles/ansible-role-vnc-server"]
+	path = ansible-roles/ansible-role-vnc-server
+	url = git@github.com:cisagov/ansible-role-vnc-server.git
+[submodule "ansible-roles/ansible-role-ncats-webui"]
+	path = ansible-roles/ansible-role-ncats-webui
+	url = git@github.com:cisagov/ansible-role-ncats-webui.git
+[submodule "ansible-roles/ansible-role-cyhy-runner"]
+	path = ansible-roles/ansible-role-cyhy-runner
+	url = git@github.com:cisagov/ansible-role-cyhy-runner.git
